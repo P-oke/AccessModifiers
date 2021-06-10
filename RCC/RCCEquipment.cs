@@ -11,7 +11,9 @@ namespace RCC
             Console.WriteLine("This is RCC Crane");
             Console.WriteLine("This is RCC Crane");
             Console.WriteLine("This is RCC Crane");
-
+            Console.WriteLine("This is RCC Crane");
+            Console.WriteLine("This is RCC Crane");
+            Console.WriteLine("This is RCC Crane");
         }
 
         internal void Caterpillar()
